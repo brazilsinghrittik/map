@@ -87,4 +87,4 @@ Or you can copy and run on your vs code and play with the setting for practice p
 </html>
 ~~~
 
-Link:https://brazilsinghrittik.github.io/map/
+
